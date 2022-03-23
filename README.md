@@ -6,4 +6,5 @@ World Happiness Report 2022 Analysis using Machine Learning (Python Implementati
 3. Model used: Linear Regression
 
 Training Accuracy : 0.9660262482482626
+<br>
 Testing Accuracy : 0.9702717332836579
